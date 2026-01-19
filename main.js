@@ -12,7 +12,7 @@ function Marca(comidas, bebidas, produtos) {
     Promocao.call(this, comidas, bebidas, produtos)
 };
 
-const marcas = new Marca("Camil", "Skoll", "Coperalcool");
+const marcas = new Marca("Camil", "Skol", "Coperalcool");
 
 console.log(marcas);
 
